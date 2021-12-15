@@ -12,7 +12,6 @@ import ProgressBar from './ProgressBar.react.js'
 import PropTypes from 'prop-types';
 import Resumablejs from 'resumablejs';
 import './progressbar.css';
-import './button.css';
 
 /**
  *  The Upload component
